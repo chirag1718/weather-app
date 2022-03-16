@@ -18,8 +18,8 @@ body{
 /* Location and Temperature */
 .location, 
 .temperature{
-    height: 30vh;
-    width: 50%;
+    height: 20vh;
+    width: 30%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -33,7 +33,6 @@ body{
 .degree-section{
     display: flex;
     align-items: center;
-    cursor: pointer;
 }
 
 .degree-section span{
